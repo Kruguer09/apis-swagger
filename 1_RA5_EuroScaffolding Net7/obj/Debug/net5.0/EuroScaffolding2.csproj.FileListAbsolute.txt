@@ -1,0 +1,660 @@
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\appsettings.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.deps.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.dev.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ref\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfoInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.Manifest.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.xml
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\scopedcss\bundle\EuroScaffolding2.styles.css
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.input.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.output.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorCoreGenerate.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CopyComplete
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\ref\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.genruntimeconfig.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\appsettings.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.deps.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.dev.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ref\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfoInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.Manifest.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.xml
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\scopedcss\bundle\EuroScaffolding2.styles.css
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.input.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.output.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorCoreGenerate.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CopyComplete
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\ref\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.genruntimeconfig.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\appsettings.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.StaticWebAssets.xml
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.deps.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.dev.json
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.AssemblyReference.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfoInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CoreCompileInputs.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\scopedcss\bundle\EuroScaffolding2.styles.css
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.Manifest.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.input.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.output.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorCoreGenerate.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Create.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Delete.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Details.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Edit.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Index.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cs
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CopyComplete
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\refint\EuroScaffolding2.dll
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.genruntimeconfig.cache
+C:\Users\ELISA\Documents\IES TRASSIERRA\21_22\_Desarrollo Interfaces\_exam 2ªeval\solucion\2_EuroScaffolding2\obj\Debug\net5.0\ref\EuroScaffolding2.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.StaticWebAssets.xml
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.exe
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.deps.json
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.json
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfo.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.input.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.TagHelpers.output.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorCoreGenerate.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Create.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Delete.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Details.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Edit.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Canciones\Index.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Create.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Delete.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Details.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Edit.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\EdFestivales\Index.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Create.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Delete.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Details.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Edit.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Paises\Index.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.Views.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\scopedcss\bundle\EuroScaffolding2.styles.css
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\EuroScaffolding2.StaticWebAssets.Pack.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\msbuild.EuroScaffolding2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\msbuild.build.EuroScaffolding2.props
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EuroScaffolding2.props
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EuroScaffolding2.props
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.csproj.CopyComplete
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\refint\EuroScaffolding2.dll
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.pdb
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\EuroScaffolding2.genruntimeconfig.cache
+C:\Users\Usuario\Documents\IES TRASSIERRA 23-24\DI\_exam 2ª eval\_23-24\Examen final\recursos para alumnos\recursos para alumnos\EuroScaffolding2\obj\Debug\net5.0\ref\EuroScaffolding2.dll
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.dll
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\refint\EuroScaffolding2.dll
+C:\Users\Usuario\source\repos\1_RA5_EuroScaffolding Net7\obj\Debug\net5.0\EuroScaffolding2.pdb

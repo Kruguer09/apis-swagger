@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiRestConSwagger</name>
+    </assembly>
+    <members>
+        <member name="M:ApiRestConSwagger.Controllers.HeroesController.GetHeroes">
+            <summary>
+            Obtiene todos los heroes registrados en la aplicación
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiRestConSwagger.Controllers.HeroesController.GetHero(System.Int64)">
+            <summary>
+            Obtiene los datos del heroe que tenga el id que se le pasa como parámetro
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiRestConSwagger.Controllers.HeroesController.PutHero(System.Int64,ApiRestConSwagger.Models.Hero)">
+            <summary>
+            Modifica los datos del héroe cuyo id se le pasa como parámetro
+            </summary>
+            <param name="id"></param>
+            <param name="hero"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiRestConSwagger.Controllers.HeroesController.PostHero(ApiRestConSwagger.Models.Hero)">
+            <summary>
+            Agrega un nuevo heroe a la aplicación
+            </summary>
+             <remarks>
+             Sample request:
+                 POST /heroes
+                 {
+                    "Name": "Batman",
+                   "IsBad": false,
+                   "HomeId": 1
+                 }
+             </remarks>
+             <param name="hero"></param>
+            <response code="201">Si crea bien el objeto</response>
+             <response code="400">Si no encuentra la ruta</response>
+             <response code="403">Si la llamada no está autenticada</response>
+             <response code="500">Si se produce un error</response>
+             <returns></returns>
+        </member>
+        <member name="M:ApiRestConSwagger.Controllers.HeroesController.DeleteHero(System.Int64)">
+            <summary>
+            Borra el heróe cuyo id le pasamos como parámetro
+            </summary>
+            <param name="id"></param>
+            <remarks>
+            Texto JSON o XML informativo
+            </remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

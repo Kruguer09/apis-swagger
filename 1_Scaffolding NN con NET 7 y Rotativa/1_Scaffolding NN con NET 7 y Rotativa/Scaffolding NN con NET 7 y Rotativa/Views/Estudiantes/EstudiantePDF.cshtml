@@ -1,0 +1,90 @@
+﻿@* Modelo de donde vamos a coger los datos *@
+@model IEnumerable<EF_en_ASP.NET_Core_MVC_con_Scaffolding_y_NN_con_NET_7.Models.Estudiante>
+
+@{
+    ViewData["Title"] = "EstudiantePDF";
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EstudiantePDF</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <div class="row">
+        <div class="col-sm-8 text-right">
+            <h2>Lista de Estudiantes</h2>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                @* Nombres de los campos de la tabla *@
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Edad)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.InstitutoId)
+                </th>
+                @* NO LOS VOY A INCLUIR PORQUE NO SON CAMPOS DE LA TABLA EN LA BD *@
+                @*<th>
+                    @Html.DisplayNameFor(model => model.Direccion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EstudianteCursos)
+                </th>*@
+                <th>
+                    @Html.DisplayNameFor(model => model.Instituto)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                @*Valores de los campos en cada registro de la tabla *@
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Edad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.InstitutoId)
+                </td>
+
+                @* NO LOS VOY A INCLUIR PORQUE NO SON CAMPOS DE LA TABLA EN LA BD *@
+                @*<td>*@
+                    @*@Html.DisplayFor(modelItem => item.Direccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EstudianteCursos)
+                </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instituto)
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

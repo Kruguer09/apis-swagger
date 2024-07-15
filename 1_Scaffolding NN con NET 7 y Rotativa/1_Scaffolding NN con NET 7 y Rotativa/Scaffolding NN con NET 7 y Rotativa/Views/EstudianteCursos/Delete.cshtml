@@ -1,0 +1,40 @@
+﻿@model EF_en_ASP.NET_Core_MVC_con_Scaffolding_y_NN_con_NET_7.Models.EstudianteCurso
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>EstudianteCurso</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Estudiante)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Estudiante.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Curso)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Curso.Id)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="EstudianteId" />
+        <input type="hidden" asp-for="CursoId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

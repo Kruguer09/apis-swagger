@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\arscaffoldingjoseaferrerico\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|solutionrelative:arscaffoldingjoseaferrerico\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|c:\\users\\user\\source\\repos\\arscaffoldingjoseaferrerico_comentarios\\arscaffoldingjoseaferrerico\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|solutionrelative:arscaffoldingjoseaferrerico\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\arscaffoldingjoseaferrerico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|solutionrelative:arscaffoldingjoseaferrerico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\arscaffoldingjoseaferrerico\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CD2519-9D91-4396-B30D-5467C9DF0D3C}|ARScaffoldingJoseAFerreRico\\ARScaffoldingJoseAFerreRico.csproj|solutionrelative:arscaffoldingjoseaferrerico\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 197,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Program.cs",
+              "RelativeDocumentMoniker": "ARScaffoldingJoseAFerreRico\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Program.cs",
+              "RelativeToolTip": "ARScaffoldingJoseAFerreRico\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:19:26.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "ARScaffoldingJoseAFerreRico\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Models\\Empresa.cs",
+              "RelativeToolTip": "ARScaffoldingJoseAFerreRico\\Models\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:51:52.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "ARScaffoldingJoseAFerreRico\\Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "ARScaffoldingJoseAFerreRico\\Controllers\\EmpresasController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwJMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:28:48.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Controllers\\EmpleadoesController.cs",
+              "RelativeDocumentMoniker": "ARScaffoldingJoseAFerreRico\\Controllers\\EmpleadoesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ARScaffoldingJoseAFerreRico_comentarios\\ARScaffoldingJoseAFerreRico\\Controllers\\EmpleadoesController.cs",
+              "RelativeToolTip": "ARScaffoldingJoseAFerreRico\\Controllers\\EmpleadoesController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAiwJkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:28:44.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

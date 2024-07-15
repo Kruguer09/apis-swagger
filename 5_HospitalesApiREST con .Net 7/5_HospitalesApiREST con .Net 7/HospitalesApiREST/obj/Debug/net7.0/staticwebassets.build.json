@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aI+Z600IcJq154ZoTBvF57wk+uc5GRXCBEsYjI5BqP0=",
+  "Source": "HospitalesApiREST",
+  "BasePath": "_content/HospitalesApiREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

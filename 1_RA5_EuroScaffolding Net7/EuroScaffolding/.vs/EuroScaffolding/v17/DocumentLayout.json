@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\controllers\\cancionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\controllers\\cancionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Migrations\\20240512181157_uno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EuroScaffolding\\Migrations\\20240512181157_uno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\context\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\context\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\controllers\\edfestivalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\controllers\\edfestivalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|c:\\users\\usuario\\documents\\ies trass\\23-24\\di\\_exam 3\u00AA eval\\2damp\\mayo 2\\ra5_euroscaffolding2 net7\\euroscaffolding\\euroscaffolding\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4591CD-B501-49BB-B992-37CFC84D635F}|EuroScaffolding\\EuroScaffolding.csproj|solutionrelative:euroscaffolding\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "EuroScaffolding\\Controllers\\PaisController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:03:40.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EdFestivalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\EdFestivalsController.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Controllers\\EdFestivalsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\EdFestivalsController.cs",
+              "RelativeToolTip": "EuroScaffolding\\Controllers\\EdFestivalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:03:01.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CancionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\CancionsController.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Controllers\\CancionsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\CancionsController.cs",
+              "RelativeToolTip": "EuroScaffolding\\Controllers\\CancionsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswF0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:02:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EuroScaffolding\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T17:59:26.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EuroScaffolding\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:59:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "EuroScaffolding\\Context\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:57:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\appsettings.json",
+              "RelativeDocumentMoniker": "EuroScaffolding\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\appsettings.json",
+              "RelativeToolTip": "EuroScaffolding\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T17:54:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240512181157_uno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Migrations\\20240512181157_uno.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Migrations\\20240512181157_uno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Migrations\\20240512181157_uno.cs",
+              "RelativeToolTip": "EuroScaffolding\\Migrations\\20240512181157_uno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:11:57.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EuroScaffolding\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T18:03:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Context\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Context\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Context\\DbInitializer.cs",
+              "RelativeToolTip": "EuroScaffolding\\Context\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:57:44.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Models\\Pais.cs",
+              "RelativeToolTip": "EuroScaffolding\\Models\\Pais.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:54:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Program.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Program.cs",
+              "RelativeToolTip": "EuroScaffolding\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAewBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:55:04.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EuroScaffolding\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\IES TRASS\\23-24\\DI\\_exam 3\u00AA eval\\2DAMP\\Mayo 2\\RA5_EuroScaffolding2 Net7\\EuroScaffolding\\EuroScaffolding\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EuroScaffolding\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:54:53.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

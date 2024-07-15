@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ApiRestConSwagger_comentarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EB5C61-FBBE-48B8-931B-6B71444719C5}|ApiRestConSwagger.csproj|C:\\Users\\USER\\source\\repos\\ApiRestConSwagger_comentarios\\controllers\\heroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EB5C61-FBBE-48B8-931B-6B71444719C5}|ApiRestConSwagger.csproj|solutionrelative:controllers\\heroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EB5C61-FBBE-48B8-931B-6B71444719C5}|ApiRestConSwagger.csproj|c:\\users\\user\\source\\repos\\apirestconswagger_comentarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EB5C61-FBBE-48B8-931B-6B71444719C5}|ApiRestConSwagger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ApiRestConSwagger_comentarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ApiRestConSwagger_comentarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:25:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ApiRestConSwagger_comentarios\\Controllers\\HeroesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HeroesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ApiRestConSwagger_comentarios\\Controllers\\HeroesController.cs",
+              "RelativeToolTip": "Controllers\\HeroesController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwH4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:36:37.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

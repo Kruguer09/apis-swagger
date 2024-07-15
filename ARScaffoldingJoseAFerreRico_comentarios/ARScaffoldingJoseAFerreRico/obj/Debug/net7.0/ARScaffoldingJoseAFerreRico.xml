@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ARScaffoldingJoseAFerreRico</name>
+    </assembly>
+    <members>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpleadoesController.GetEmpleados">
+            <summary>
+            Obtiene los empleados con sus datos y la empresa a la que pertenece.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpleadoesController.GetEmpleado(System.String)">
+            <summary>
+            Obtiene los datos del empleado/a que tenga el id que se le pase
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpleadoesController.PutEmpleado(System.String,ARScaffoldingJoseAFerreRico.Models.Empleado)">
+            <summary>
+            Modifica los datos del empleado/a cuyo id se le pasa como parámetro
+            </summary>
+            <param name="id"></param>
+            <param name="empleado"></param>
+            <response code="409">La solicitud no se puedo procesar por un conflicto</response>
+            <response code="500">Hubo un error interni en el servidor mientras de procesaba la solicitud</response>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpleadoesController.PostEmpleado(ARScaffoldingJoseAFerreRico.Models.Empleado)">
+            <summary>
+            Añade una nueva empresa a la api
+            </summary>
+            <remarks>
+            Sample request:
+                POST /Empleados
+                {
+                    "dni": "12345678A",
+                   "nombre": "María García Díaz",
+                  "direccion": "Avd Valencia 32 n 3",
+                  "sexo": "Mujer",
+                  "empresaId: 2
+                }
+            </remarks>
+            <param name="empresa"></param>
+            <response code="201">Si crea bien el objeto</response>
+            <response code="400">Si no encuentra la ruta</response>
+            <response code="403">Si la llamada no está autenticada</response>
+            <response code="500">Si se produce un error</response>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpleadoesController.DeleteEmpleado(System.String)">
+            <summary>
+            Elimina un/a empleado/a de la api
+            </summary>
+            <param name="id"></param>
+            <remarks>
+            ¡¡Atención!! Esta operación es irreversible
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpresasController.GetEmpresas">
+            <summary>
+            Obtiene todos las empresas registradas en la aplicación
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpresasController.GetEmpresa(System.Int32)">
+            <summary>
+            Obtiene los datos de la empresa que tenga el id que se le pase
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpresasController.PutEmpresa(System.Int32,ARScaffoldingJoseAFerreRico.Models.Empresa)">
+            <summary>
+            Modifica los datos de la empresa cuyo id se le pasa como parámetro
+            </summary>
+            <param name="id"></param>
+            <param name="empresa"></param>
+            <response code="409">La solicitud no se puedo procesar por un conflicto</response>
+            <response code="500">Hubo un error interni en el servidor mientras de procesaba la solicitud</response>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpresasController.PostEmpresa(ARScaffoldingJoseAFerreRico.Models.Empresa)">
+            <summary>
+            Añade una nueva empresa a la api
+            </summary>
+            <remarks>
+            Sample request:
+                POST /Empresas
+                {
+                   "Nombre": "Mercadona",
+                  "Direccion": "Avd Valencia",
+                  "NumeroEmpleados": 10250
+                }
+            </remarks>
+            <param name="empresa"></param>
+            <response code="201">Si crea bien el objeto</response>
+            <response code="400">Si no encuentra la ruta</response>
+            <response code="403">Si la llamada no está autenticada</response>
+            <response code="500">Si se produce un error</response>
+            <returns></returns>
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Controllers.EmpresasController.DeleteEmpresa(System.Int32)">
+            <summary>
+            Elimina una empresa de la api
+            </summary>
+            <param name="id"></param>
+            <remarks>
+            ¡¡Atención!! Esta operación es irreversible
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._1">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._2">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._3">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._3.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._3.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._4">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._4.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._4.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._4.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._5">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._5.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._5.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._5.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._6">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._6.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._6.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._6.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ARScaffoldingJoseAFerreRico.Migrations._7">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._7.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._7.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ARScaffoldingJoseAFerreRico.Migrations._7.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

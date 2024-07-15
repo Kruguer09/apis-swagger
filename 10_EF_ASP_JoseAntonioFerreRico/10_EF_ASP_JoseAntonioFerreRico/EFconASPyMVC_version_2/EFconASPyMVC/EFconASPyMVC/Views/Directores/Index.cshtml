@@ -1,0 +1,72 @@
+﻿@model IEnumerable<EFconASPyMVC.Models.Director>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<!-- Documento modificado del original para mejorar la apariencia del mismo -->
+<!-- Para ahorrar trabajo je vinculado con hijas de estilo predefinidas -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+
+    <!-- Enlace a Bootstrap para adquirirframework CSS  -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+
+    <div class="container mt-5">
+        <h1>@ViewData["Title"]</h1>
+
+        <p>
+            <a class="btn btn-primary" asp-action="Create">Create New</a>
+        </p>
+
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Empleados)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CentroDeportivo)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Empleados)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CentroDeportivo.Id)
+                        </td>
+                        <td>
+                            <!-- Se crean botones para gestionar los links) -->
+                            <a class="btn btn-info" asp-action="Edit" asp-route-id="@item.DniDirector">Edit</a>
+                            <a class="btn btn-success" asp-action="Details" asp-route-id="@item.DniDirector">Details</a>
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.DniDirector">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Script de Bootstrap  -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-U8p3I+COjBQKcXe8ea5O8j1OWPrZe5+CXQSHZPRgyTzqIsKqAgDDVSQt6Sv9eMIJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>

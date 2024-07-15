@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JyT7Lol43PG3Wt+Y7tCPBYDNVc4q7ru1bTPTNOBSEkq2eT2tT/iAIRRJjdaeN2vxrBh2tjWzxgfW/h3i0AM17w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\ConsumoAPIJoseAFerreRic\\ConsumoAPIJoseAFerreRic\\ConsumoAPIJoseAFerreRic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
